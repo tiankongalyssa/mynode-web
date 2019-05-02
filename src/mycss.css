@@ -1,15 +1,27 @@
-.info{
-  color:#909399
+.info {
+  color: #909399
 }
-.primary{
-  color:#409eff
+
+.primary {
+  color: #409eff
 }
-.success{
-  color:#67c23a
+
+.success {
+  color: #67c23a
 }
-.danger{
-  color:#f56c6c
+
+.danger {
+  color: #f56c6c
 }
-.warning{
-  color:#e6a23c
+
+.warning {
+  color: #e6a23c
+}
+
+p, h1, h2, h3, h4, h5{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+Button{
+  margin-bottom: 10px;
 }
